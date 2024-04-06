@@ -1,0 +1,6 @@
+streamlit
+streamlit_extras
+openai
+streamlit_modal
+streamlit_chatbox
+llama_index
